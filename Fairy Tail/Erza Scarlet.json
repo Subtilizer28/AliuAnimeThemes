@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Erza Scarlet",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/gr6B7Yc\/931555.png"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Averia%20Libre\/AveriaLibre-Regular.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Averia%20Libre\/AveriaLibre-Regular.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Averia%20Libre\/AveriaLibre-Bold.ttf?raw=true"
+    },
+    "simple_colors": {
+        "mention_highlight": 836370510
+    },
+    "colors": {
+        "primary_dark_200": -56320,
+        "primary_dark_300": -56320,
+        "primary_dark_360": -56320,
+        "primary_700": 416940110
+    },
+    "drawable_tints": {}
+}
