@@ -6,7 +6,7 @@
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Food%20Wars\/Nakiri%20Erina.json"
     },
     "background": {
-        "alpha": 65,
+        "overlay_alpha": 75,
         "url": "https:\/\/i.ibb.co\/jgvg1c5\/908358.jpg"
     },
     "fonts": {

@@ -6,6 +6,7 @@
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Fairy%20Tail\/Erza%20Scarlet.json"
     },
     "background": {
+							"overlay_alpha": 100,
         "url": "https:\/\/i.ibb.co\/gr6B7Yc\/931555.png"
     },
     "fonts": {
