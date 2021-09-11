@@ -6,6 +6,7 @@
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Sword%20Art%20Online%20\/Asuna%20Yuuki.json"
     },
     "background": {
+        "alpha": 75,
         "url": "https:\/\/i.ibb.co\/0KRnhQB\/834174.png"
     },
     "fonts": {
