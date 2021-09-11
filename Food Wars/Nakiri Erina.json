@@ -6,7 +6,7 @@
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Food%20Wars\/Nakiri%20Erina.json"
     },
     "background": {
-        "alpha": 60,
+        "alpha": 50,
         "url": "https:\/\/i.ibb.co\/jgvg1c5\/908358.jpg"
     },
     "fonts": {
@@ -21,7 +21,8 @@
         "primary_dark_200": -930673,
         "primary_dark_630": -1758514890,
         "primary_dark_300": -930673,
-        "primary_dark_360": -930673
+        "primary_dark_360": -930673,
+        "primary_700": 738197504
     },
     "drawable_tints": {
         "drawable_overlay_channels_selected_dark": -935180723
