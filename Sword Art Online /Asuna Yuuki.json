@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Asuna Yuuki",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/0KRnhQB\/834174.png"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Heebo\/Heebo-Regular.ttf?raw=true"
+    },
+    "simple_colors": {
+        "mention_highlight": 855617935
+    },
+    "colors": {
+        "primary_dark_200": -20081,
+        "primary_dark_630": 822083584,
+        "primary_dark_300": -20081,
+        "primary_dark_360": -20081
+    },
+    "drawable_tints": {}
+}
