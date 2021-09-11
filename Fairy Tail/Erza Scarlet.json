@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Erza Scarlet",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Fairy%20Tail\/Erza%20Scarlet.json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/gr6B7Yc\/931555.png"
