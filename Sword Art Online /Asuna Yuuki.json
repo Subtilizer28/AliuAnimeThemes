@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Asuna Yuuki",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Sword%20Art%20Online%20\/Asuna%20Yuuki.json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/0KRnhQB\/834174.png"
