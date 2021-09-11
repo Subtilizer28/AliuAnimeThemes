@@ -1,0 +1,29 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Erina Nakiri",
+        "version": "1.0.0"
+    },
+    "background": {
+        "transparency": 60,
+        "url": "https:\/\/i.ibb.co\/jgvg1c5\/908358.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Roboto%20Condensed\/RobotoCondensed-Regular.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Roboto%20Condensed\/RobotoCondensed-Bold.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Roboto%20Condensed\/RobotoCondensed-Regular.ttf?raw=true"
+    },
+    "simple_colors": {
+        "mention_highlight": 447637504
+    },
+    "colors": {
+        "primary_dark_200": -930673,
+        "primary_dark_630": -1758514890,
+        "primary_dark_300": -930673,
+        "primary_dark_360": -930673
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -935180723,
+        "ic_channel_text": -16711681
+    }
+}
