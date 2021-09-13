@@ -3,7 +3,7 @@
         "author": "Subtilizer#6619",
         "name": "Asuna Yuuki",
         "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Sword%20Art%20Online%20\/Asuna%20Yuuki.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Asuna%20Yuuki%20(Sword%20Art%20Online).json"
     },
     "background": {
         "overlay_alpha": 120,
@@ -17,7 +17,7 @@
     },
     "colors": {
         "primary_dark_200": -20081,
-        "primary_dark_630": 822083584,
+        "primary_dark_630": 620756992,
         "primary_dark_300": -20081,
         "primary_dark_360": -20081
     },
