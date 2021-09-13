@@ -21,7 +21,8 @@
         "primary_dark_200": -56320,
         "primary_dark_300": -56320,
         "primary_dark_360": -56320,
-        "primary_700": 416940110
+        "primary_700": 416940110,
+        "brand_new_560": -56320
     },
     "drawable_tints": {}
 }
