@@ -1,13 +1,13 @@
 {
     "manifest": {
         "author": "Subtilizer#6619",
-        "name": "Asuna Yuuki",
+        "name": "Yamato",
         "version": "1.0.0",
-        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Asuna%20Yuuki%20(Sword%20Art%20Online).json"
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Yamato%20(One%20Piece).json"
     },
     "background": {
-        "overlay_alpha": 120,
-        "url": "https:\/\/i.ibb.co\/0KRnhQB\/834174.png"
+        "url": "https:\/\/i.ibb.co\/Np5Bgmm\/yamato.jpg",
+        "overlay_alpha": 100
     },
     "fonts": {
         "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Balsamiq%20Sans\/BalsamiqSans-Regular.ttf?raw=true",
@@ -15,13 +15,14 @@
         "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Balsamiq%20Sans\/BalsamiqSans-Regular.ttf?raw=true"
     },
     "simple_colors": {
-        "mention_highlight": 855617935
+        "mention_highlight": 605531270
     },
     "colors": {
-        "primary_dark_200": -20081,
-        "primary_dark_630": 620756992,
-        "primary_dark_300": -20081,
-        "primary_dark_360": -20081
+        "primary_700": 620756992,
+        "primary_dark_630": 603979776,
+        "primary_dark_360": -15225722,
+        "primary_dark_300": -15225722,
+        "primary_dark_200": -15225722
     },
     "drawable_tints": {}
 }
