@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Asuna Yuuki",
-        "version": "1.0.3",
+        "version": "1.2.0",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Asuna%20Yuuki%20(Sword%20Art%20Online).json"
     },
     "background": {
@@ -15,13 +15,54 @@
         "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Balsamiq%20Sans\/BalsamiqSans-Regular.ttf?raw=true"
     },
     "simple_colors": {
-        "mention_highlight": 838795264
+        "mention_highlight": 838924954,
+        "accent": -16713062
     },
     "colors": {
-        "primary_dark_200": -2030080,
+        "primary_dark_200": -16713062,
         "primary_dark_630": 620756992,
-        "primary_dark_300": -2030080,
-        "primary_dark_360": -2030080
+        "primary_dark_300": -16713062,
+        "primary_dark_360": -16713062,
+        "brand_new": -16713062,
+        "brand_new_560": -16713062,
+        "brand_new_430": -16713062,
+        "brand_new_530": -16713062,
+        "brand_new_230": -16713062,
+        "brand_new_330": -16713062,
+        "brand_new_360": -16713062,
+        "brand_new_460": -16713062,
+        "brand_new_260": -16713062,
+        "brand_new_500": -16713062,
+        "brand_new_600": -16713062,
+        "brand_new_630": -16713062,
+        "brand_new_300": -16713062,
+        "brand_new_400": -16713062,
+        "uikit_btn_compound_color_selector_dark": -16713062,
+        "uikit_btn_compound_color_selector_light": -16713062,
+        "uikit_btn_bg_color_selector_background_accent_dark": -16713062,
+        "uikit_btn_bg_color_selector_background_accent_light": -16713062,
+        "uikit_btn_bg_color_selector_brand": -16713062,
+        "uikit_btn_bg_color_selector_secondary": -16713062,
+        "uikit_btn_bg_color_selector_secondary_dark": -16713062,
+        "uikit_btn_bg_color_selector_secondary_light": -16713062,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -16713062,
+        "uikit_settings_item_text_color_light": 1677785754,
+        "uikit_settings_item_text_color_dark": -16713062,
+        "link": -14188851
     },
-    "drawable_tints": {}
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -16713062,
+        "ic_sidebar_notifications_off_dark_24dp": -16713062,
+        "ic_sidebar_pins_on_light_24dp": -16713062,
+        "ic_sidebar_notifications_on_light_24dp": -16713062,
+        "ic_sidebar_pins_on_dark_24dp": -16713062,
+        "ic_sidebar_pins_off_dark_24dp": -16713062,
+        "ic_sidebar_notifications_off_light_24dp": -16713062,
+        "ic_sidebar_notifications_on_dark_24dp": -16713062,
+        "drawable_overlay_channel_pressed_dark": -16713062,
+        "drawable_overlay_channel_pressed_light": -16713062,
+        "drawable_overlay_channels_selected_dark": 2113993370,
+        "drawable_overlay_channels_selected_light": 2097216154
+    }
 }
