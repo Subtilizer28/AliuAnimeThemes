@@ -2,12 +2,12 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Yamato",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Yamato%20(One%20Piece).json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/Np5Bgmm\/yamato.jpg",
-        "overlay_alpha": 100
+        "overlay_alpha": 150
     },
     "fonts": {
         "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Balsamiq%20Sans\/BalsamiqSans-Regular.ttf?raw=true",
