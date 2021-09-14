@@ -1,7 +1,7 @@
 # AliuAnimeThemes
 Themes for Aliucord for weebs
 
-Do open an issue for an request, change of font and stuff for existing themes
+Open an issue for an request, change of font and stuff for existing themes
 
 # Download Links!
 - [Asuna Yuuki (Sword Art Online)](https://cdn.discordapp.com/attachments/780495979110858774/887410598265122847/Asuna_Yuuki_Sword_Art_Online.json)
