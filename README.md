@@ -5,8 +5,8 @@ Open an issue for an request, change of font and stuff for existing themes
 
 # Previews!
 - [Asuna Yuuki (Sword Art Online)](https://media.discordapp.net/attachments/846348482231140362/887417986649042984/Screenshot_2021-09-15-00-51-48-57_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
-- [Nakiri Erina (Food Wars)](https://media.discordapp.net/attachments/846348482231140362/887415568582463508/Screenshot_2021-09-15-00-41-26-81_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
-- [Erza Scarlet (Fairy Tail)](https://media.discordapp.net/attachments/846348482231140362/887415567596810290/Screenshot_2021-09-15-00-42-05-96_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
+- [Nakiri Erina (Food Wars)](https://media.discordapp.net/attachments/846348482231140362/887420281768001586/Screenshot_2021-09-15-01-01-16-21_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
+- [Erza Scarlet (Fairy Tail)](https://media.discordapp.net/attachments/846348482231140362/887420531178111036/Screenshot_2021-09-15-01-02-16-80_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
 - [Yamato (One Piece)](https://media.discordapp.net/attachments/846348482231140362/887417987143966760/Screenshot_2021-09-15-00-52-07-36_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
 
 # Download Links!
