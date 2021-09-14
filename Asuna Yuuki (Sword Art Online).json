@@ -6,8 +6,8 @@
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Asuna%20Yuuki%20(Sword%20Art%20Online).json"
     },
     "background": {
-        "overlay_alpha": 120,
-        "url": "https:\/\/i.ibb.co\/0KRnhQB\/834174.png"
+        "url": "https:\/\/i.ibb.co\/LkjVLRX\/822947.jpg",
+        "overlay_alpha": 100
     },
     "fonts": {
         "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Balsamiq%20Sans\/BalsamiqSans-Regular.ttf?raw=true",
@@ -15,14 +15,13 @@
         "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Balsamiq%20Sans\/BalsamiqSans-Regular.ttf?raw=true"
     },
     "simple_colors": {
-        "mention_highlight": 855617935
+        "mention_highlight": 838795264
     },
     "colors": {
-        "primary_dark_200": -20081,
+        "primary_dark_200": -2030080,
         "primary_dark_630": 620756992,
-        "primary_dark_300": -20081,
-        "primary_dark_360": -20081,
-        "brand_new_560": -20081
+        "primary_dark_300": -2030080,
+        "primary_dark_360": -2030080
     },
     "drawable_tints": {}
 }

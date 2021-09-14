@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Erina Nakiri",
-        "version": "1.0.0",
+        "version": "1.2.0",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Nakiri%20Erina%20(Food%20Wars).json"
     },
     "background": {
@@ -15,7 +15,8 @@
         "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Roboto%20Condensed\/RobotoCondensed-Regular.ttf?raw=true"
     },
     "simple_colors": {
-        "mention_highlight": 447637504
+        "mention_highlight": 447637504,
+        "accent": -930673
     },
     "colors": {
         "primary_dark_200": -930673,
@@ -23,9 +24,46 @@
         "primary_dark_300": -930673,
         "primary_dark_360": -930673,
         "primary_700": 738197504,
-        "brand_new_560": -930673
+        "brand_new": -930673,
+        "brand_new_560": -930673,
+        "brand_new_430": -930673,
+        "brand_new_530": -930673,
+        "brand_new_230": -930673,
+        "brand_new_330": -930673,
+        "brand_new_360": -930673,
+        "brand_new_460": -930673,
+        "brand_new_260": -930673,
+        "brand_new_500": -930673,
+        "brand_new_600": -930673,
+        "brand_new_630": -930673,
+        "brand_new_300": -930673,
+        "brand_new_400": -930673,
+        "uikit_btn_compound_color_selector_dark": -930673,
+        "uikit_btn_compound_color_selector_light": -930673,
+        "uikit_btn_bg_color_selector_background_accent_dark": -930673,
+        "uikit_btn_bg_color_selector_background_accent_light": -930673,
+        "uikit_btn_bg_color_selector_brand": -930673,
+        "uikit_btn_bg_color_selector_secondary": -930673,
+        "uikit_btn_bg_color_selector_secondary_dark": -930673,
+        "uikit_btn_bg_color_selector_secondary_light": -930673,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -930673,
+        "uikit_settings_item_text_color_light": 2146552975,
+        "uikit_settings_item_text_color_dark": -930673,
+        "link": -14188851
     },
     "drawable_tints": {
-        "drawable_overlay_channels_selected_dark": -935180723
+        "ic_sidebar_pins_off_light_24dp": -930673,
+        "ic_sidebar_notifications_off_dark_24dp": -930673,
+        "ic_sidebar_pins_on_light_24dp": -930673,
+        "ic_sidebar_notifications_on_light_24dp": -930673,
+        "ic_sidebar_pins_on_dark_24dp": -930673,
+        "ic_sidebar_pins_off_dark_24dp": -930673,
+        "ic_sidebar_notifications_off_light_24dp": -930673,
+        "ic_sidebar_notifications_on_dark_24dp": -930673,
+        "drawable_overlay_channel_pressed_dark": -930673,
+        "drawable_overlay_channel_pressed_light": -930673,
+        "drawable_overlay_channels_selected_dark": 2129775759,
+        "drawable_overlay_channels_selected_light": 2129775759
     }
 }
