@@ -1,0 +1,67 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Inubashiri Momiji",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/RSLbq3Y\/895583.png",
+        "overlay_alpha": 150
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Ubuntu%20Condensed\/UbuntuCondensed-Regular.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Ubuntu%20Condensed\/UbuntuCondensed-Regular.ttf?raw=true"
+    },
+    "simple_colors": {
+        "mention_highlight": 421904473,
+        "accent": -14303143
+    },
+    "colors": {
+        "primary_dark_200": -14967482,
+        "primary_700": 738197504,
+        "primary_dark_630": -1758514890,
+        "primary_dark_300": -14303143,
+        "primary_dark_360": -14303143,
+        "brand_new": -14303143,
+        "brand_new_560": -14303143,
+        "brand_new_430": -14303143,
+        "brand_new_530": -14303143,
+        "brand_new_230": -14303143,
+        "brand_new_330": -14303143,
+        "brand_new_360": -14303143,
+        "brand_new_460": -14303143,
+        "brand_new_260": -14303143,
+        "brand_new_500": -14303143,
+        "brand_new_600": -14303143,
+        "brand_new_630": -14303143,
+        "brand_new_300": -14303143,
+        "brand_new_400": -14303143,
+        "uikit_btn_compound_color_selector_dark": -14303143,
+        "uikit_btn_compound_color_selector_light": -14303143,
+        "uikit_btn_bg_color_selector_background_accent_dark": -14303143,
+        "uikit_btn_bg_color_selector_background_accent_light": -14303143,
+        "uikit_btn_bg_color_selector_brand": -14303143,
+        "uikit_btn_bg_color_selector_secondary": -14303143,
+        "uikit_btn_bg_color_selector_secondary_dark": -14303143,
+        "uikit_btn_bg_color_selector_secondary_light": -14303143,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -14303143,
+        "uikit_settings_item_text_color_light": 2133180505,
+        "uikit_settings_item_text_color_dark": -14303143,
+        "link": -14188851
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -14303143,
+        "ic_sidebar_notifications_off_dark_24dp": -14303143,
+        "ic_sidebar_pins_on_light_24dp": -14303143,
+        "ic_sidebar_notifications_on_light_24dp": -14303143,
+        "ic_sidebar_pins_on_dark_24dp": -14303143,
+        "ic_sidebar_pins_off_dark_24dp": -14303143,
+        "ic_sidebar_notifications_off_light_24dp": -14303143,
+        "ic_sidebar_notifications_on_dark_24dp": -14303143,
+        "drawable_overlay_channel_pressed_dark": -14303143,
+        "drawable_overlay_channel_pressed_light": -14303143,
+        "drawable_overlay_channels_selected_dark": 2116403289,
+        "drawable_overlay_channels_selected_light": 2116403289
+    }
+}
