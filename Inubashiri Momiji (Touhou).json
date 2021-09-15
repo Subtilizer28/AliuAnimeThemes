@@ -2,12 +2,12 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Inubashiri Momiji",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Inubashiri%20Momiji%20(Touhou).json"
     },
     "background": {
-        "url": "https:\/\/i.ibb.co\/RSLbq3Y\/895583.png",
-        "overlay_alpha": 150
+        "overlay_alpha": 150,
+        "url": "https:\/\/i.ibb.co\/2kNwzy7\/895583.webp"
     },
     "fonts": {
         "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Ubuntu%20Condensed\/UbuntuCondensed-Regular.ttf?raw=true",
