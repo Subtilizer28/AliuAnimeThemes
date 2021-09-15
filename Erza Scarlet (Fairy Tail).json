@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Erza Scarlet",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Erza%20Scarlet%20(Fairy%20Tail).json"
     },
     "background": {
@@ -19,14 +19,14 @@
         "accent": -56320
     },
     "colors": {
-        "primary_dark_200": -56320,
+        "primary_dark_200": -2876160,
         "primary_dark_300": -56320,
         "primary_dark_360": -56320,
         "primary_700": 416940110,
         "brand_new": -56320,
         "brand_new_560": -56320,
         "brand_new_430": -56320,
-        "brand_new_530": -56320,
+        "brand_new_530": -56576,
         "brand_new_230": -56320,
         "brand_new_330": -56320,
         "brand_new_360": -56320,

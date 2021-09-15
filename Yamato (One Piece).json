@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Yamato",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Yamato%20(One%20Piece).json"
     },
     "background": {
@@ -19,11 +19,11 @@
         "accent": -15225722
     },
     "colors": {
-        "primary_700": 620756992,
+        "primary_700": 1275068416,
         "primary_dark_630": 603979776,
         "primary_dark_360": -15225722,
         "primary_dark_300": -15225722,
-        "primary_dark_200": -15225722,
+        "primary_dark_200": -14905486,
         "brand_new": -15225722,
         "brand_new_560": -15225722,
         "brand_new_430": -15225722,
