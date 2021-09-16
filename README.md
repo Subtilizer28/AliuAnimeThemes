@@ -2,6 +2,7 @@
 Themes for Aliucord for weebs
 
 Open an issue for an request, change of font and stuff for existing themes
+
 **ONLY WORKS WITH FULL TRANSPARENCY MODE**
 
 # Previews!
