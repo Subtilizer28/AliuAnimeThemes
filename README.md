@@ -2,6 +2,7 @@
 Themes for Aliucord for weebs
 
 Open an issue for an request, change of font and stuff for existing themes
+**ONLY WORKS WITH FULL TRANSPARENCY MODE**
 
 # Previews!
 - [Asuna Yuuki (Sword Art Online)](https://media.discordapp.net/attachments/846348482231140362/887697438838759494/Screenshot_2021-09-15-19-22-29-97_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
