@@ -1,0 +1,70 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Shiro",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/i.ibb.co\/wLyMLwv\/851852.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/IBM%20Plex%20Sans%20Condensed\/IBMPlexSansCondensed-Regular.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/IBM%20Plex%20Sans%20Condensed\/IBMPlexSansCondensed-Regular.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/IBM%20Plex%20Sans%20Condensed\/IBMPlexSansCondensed-Bold.ttf?raw=true",
+        "ginto_medium": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/IBM%20Plex%20Sans%20Condensed\/IBMPlexSansCondensed-Medium.ttf?raw=true"
+    },
+    "simple_colors": {
+        "background_secondary": 822083584,
+        "background": 855638016,
+        "mention_highlight": 433499564,
+        "accent": -2708052
+    },
+    "colors": {
+        "primary_dark_200": -2708052,
+        "primary_dark_300": -2708052,
+        "primary_dark_360": -2708052,
+        "primary_700": 634826156,
+        "brand_new": -2708052,
+        "brand_new_560": -2708052,
+        "brand_new_430": -2708052,
+        "brand_new_530": -1,
+        "brand_new_230": -2708052,
+        "brand_new_330": -2708052,
+        "brand_new_360": -2708052,
+        "brand_new_460": -2708052,
+        "brand_new_260": -2708052,
+        "brand_new_500": -2708052,
+        "brand_new_600": -2708052,
+        "brand_new_630": -2708052,
+        "brand_new_300": -2708052,
+        "brand_new_400": -2708052,
+        "uikit_btn_compound_color_selector_dark": -2708052,
+        "uikit_btn_compound_color_selector_light": -2708052,
+        "uikit_btn_bg_color_selector_background_accent_dark": -2708052,
+        "uikit_btn_bg_color_selector_background_accent_light": -2708052,
+        "uikit_btn_bg_color_selector_brand": -2708052,
+        "uikit_btn_bg_color_selector_secondary": -2708052,
+        "uikit_btn_bg_color_selector_secondary_dark": -2708052,
+        "uikit_btn_bg_color_selector_secondary_light": -2708052,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -2708052,
+        "uikit_settings_item_text_color_light": 1708567980,
+        "uikit_settings_item_text_color_dark": -2708052,
+        "link": -14188851
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -2708052,
+        "ic_sidebar_notifications_off_dark_24dp": -2708052,
+        "ic_sidebar_pins_on_light_24dp": -2708052,
+        "ic_sidebar_notifications_on_light_24dp": -2708052,
+        "ic_sidebar_pins_on_dark_24dp": -2708052,
+        "ic_sidebar_pins_off_dark_24dp": -2708052,
+        "ic_sidebar_notifications_off_light_24dp": -2708052,
+        "ic_sidebar_notifications_on_dark_24dp": -2708052,
+        "drawable_overlay_channel_pressed_dark": -2708052,
+        "drawable_overlay_channel_pressed_light": -2708052,
+        "drawable_overlay_channels_selected_dark": 2127998380,
+        "drawable_overlay_channels_selected_light": 2127998380
+    }
+}
