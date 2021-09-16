@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Shiro",
-        "version": "1.0.0"
+        "version": "1.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Shiro%20(No%20Game%20No%20Life).json"
     },
     "background": {
         "overlay_alpha": 0,
