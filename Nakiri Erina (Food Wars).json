@@ -2,12 +2,12 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Erina Nakiri",
-        "version": "1.2.2",
+        "version": "1.2.3",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Nakiri%20Erina%20(Food%20Wars).json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/jgvg1c5\/908358.jpg",
-        "overlay_alpha": 130
+        "overlay_alpha": 0
     },
     "fonts": {
         "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Roboto%20Condensed\/RobotoCondensed-Regular.ttf?raw=true",
@@ -16,7 +16,9 @@
     },
     "simple_colors": {
         "mention_highlight": 447637504,
-        "accent": -930673
+        "accent": -930673,
+        "background": 637534208,
+        "background_secondary": 620756992
     },
     "colors": {
         "primary_dark_200": -3824014,
