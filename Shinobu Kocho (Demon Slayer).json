@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Shinobu Kocho",
-        "version": "1.0.0"
+        "version": "1.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Shinobu%20Kocho%20(Demon%20Slayer).json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/W3VZ2RM\/841c236e5d39045-1632582064882.gif"
