@@ -2,11 +2,11 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Gojo Satoru",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Gojo%20Satoru%20(Jujutsu%20Kaisen).json"
     },
     "background": {
-        "url": "https:\/\/i.ibb.co\/Jkg45df\/Gojo-Satoru.gif"
+        "url": "https:\/\/i.ibb.co\/GVq10rx\/ezgif-6-909db8cdf8f6.gif"
     },
     "fonts": {
         "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Averia%20Libre\/AveriaLibre-Regular.ttf?raw=true"
