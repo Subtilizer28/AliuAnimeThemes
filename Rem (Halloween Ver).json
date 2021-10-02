@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Rem (Halloween Ver)",
-        "version": "1.0.0"
+        "version": "1.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Rem%20(Halloween%20Ver).json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/PhHG6TY\/rem-halloween.jpg"
