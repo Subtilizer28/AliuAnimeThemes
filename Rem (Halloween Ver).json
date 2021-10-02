@@ -1,0 +1,67 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Rem (Halloween Ver)",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/PhHG6TY\/rem-halloween.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Roboto%20Condensed\/RobotoCondensed-Regular.ttf?raw=true"
+    },
+    "simple_colors": {
+        "background_secondary": 184549376,
+        "background": 184549376,
+        "mention_highlight": 416704526,
+        "accent": -565476
+    },
+    "colors": {
+        "primary_dark_200": -39132,
+        "primary_dark_300": -565476,
+        "primary_dark_360": -565476,
+        "primary_700": 536305436,
+        "brand_new": -565476,
+        "brand_new_560": -565476,
+        "brand_new_430": -565476,
+        "brand_new_530": -26259,
+        "brand_new_230": -565476,
+        "brand_new_330": -565476,
+        "brand_new_360": -565476,
+        "brand_new_460": -565476,
+        "brand_new_260": -565476,
+        "brand_new_500": -565476,
+        "brand_new_600": -565476,
+        "brand_new_630": -565476,
+        "brand_new_300": -565476,
+        "brand_new_400": -565476,
+        "uikit_btn_compound_color_selector_dark": -565476,
+        "uikit_btn_compound_color_selector_light": -565476,
+        "uikit_btn_bg_color_selector_background_accent_dark": -565476,
+        "uikit_btn_bg_color_selector_background_accent_light": -565476,
+        "uikit_btn_bg_color_selector_brand": -565476,
+        "uikit_btn_bg_color_selector_secondary": -565476,
+        "uikit_btn_bg_color_selector_secondary_dark": -565476,
+        "uikit_btn_bg_color_selector_secondary_light": -565476,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -565476,
+        "uikit_settings_item_text_color_light": 1693933340,
+        "uikit_settings_item_text_color_dark": -565476,
+        "link": -14188851
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -565476,
+        "ic_sidebar_notifications_off_dark_24dp": -565476,
+        "ic_sidebar_pins_on_light_24dp": -565476,
+        "ic_sidebar_notifications_on_light_24dp": -565476,
+        "ic_sidebar_pins_on_dark_24dp": -565476,
+        "ic_sidebar_pins_off_dark_24dp": -565476,
+        "ic_sidebar_notifications_off_light_24dp": -565476,
+        "ic_sidebar_notifications_on_dark_24dp": -565476,
+        "drawable_overlay_channel_pressed_dark": -565476,
+        "drawable_overlay_channel_pressed_light": -565476,
+        "drawable_overlay_channels_selected_dark": 2146918172,
+        "drawable_overlay_channels_selected_light": 2113363740,
+        "drawable_button_grey": -565476
+    }
+}
