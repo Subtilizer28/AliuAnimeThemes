@@ -5,9 +5,15 @@ Open an issue for an request, change of font and stuff for existing themes
 
 **ONLY WORKS WITH FULL TRANSPARENCY MODE**
 
-# Previews!
-- [Asuna Yuuki (Sword Art Online)](https://media.discordapp.net/attachments/846348482231140362/887697438838759494/Screenshot_2021-09-15-19-22-29-97_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
-- [Nakiri Erina (Food Wars)](https://media.discordapp.net/attachments/846348482231140362/887697438444519434/Screenshot_2021-09-15-19-21-59-78_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
-- [Erza Scarlet (Fairy Tail)](https://media.discordapp.net/attachments/846348482231140362/887697439245619270/Screenshot_2021-09-15-19-21-19-73_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
-- [Yamato (One Piece)](https://media.discordapp.net/attachments/846348482231140362/887697439631487026/Screenshot_2021-09-15-19-20-53-45_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
-- [Inubashiri Momoji (Touhou)](https://media.discordapp.net/attachments/846348482231140362/887727798234517544/Screenshot_2021-09-15-21-20-48-24_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)
+# All Themes 
+|    Theme Name    |     Current Version     | Preview Link       |	    Download Link   |
+| ---------------- |:-----------------------:|:-----------------------:|:--------------------:|
+|    Asuna Yuuki   |          v1.2.5         | [Preview](https://cdn.discordapp.com/attachments/894185205491974154/894185827394002944/IMG_20211003_170446.jpg) | [Download](https://cdn.discordapp.com/attachments/894185240690561116/894186794667626516/Asuna_Yuuki_Sword_Art_Online.json) |
+|    Erina Nakiri  |          v1.2.3         | [Preview](https://cdn.discordapp.com/attachments/894185205491974154/894187701908176896/Screenshot_2021-10-03-17-12-24-49_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg) | [Download](https://cdn.discordapp.com/attachments/894185240690561116/894187989977153536/Nakiri_Erina_Food_Wars.json) |
+|    Erza Scarlet  |          v1.2.4         | [Preview](https://cdn.discordapp.com/attachments/894185205491974154/894192702185426954/Screenshot_2021-10-03-17-30-25-17_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg) | [Download](https://cdn.discordapp.com/attachments/894185240690561116/894193052602728518/Erza_Scarlet_Fairy_Tail.json) |
+|    Gojo Satoru   |          v1.2.0         | [Preview](https://cdn.discordapp.com/attachments/894185205491974154/894193911319371836/Record_2021-10-03-17-35-20_fa4ea8e8aeb69dcd3ab969e8fd3d4310.mp4) | [Download](https://cdn.discordapp.com/attachments/894185240690561116/894193229858226216/Gojo_Satoru_Jujutsu_Kaisen.json) |
+| Inubashiri Momoji|          v1.2.1         | [Preview]() | [Download]() |
+| Rem (Halloween Ver)|        v1.1.0         | [Preview]() | [Download]() |
+|   Shinobu Kocho  |          v1.1.0         | [Preview]() | [Download]() |
+|   Shiro (Ngnl)   |          v1.1.0         | [Preview]() | [Download]() |
+|Yamato (One Piece)|          v1.2.3         | [Preview]() | [Download]() |
