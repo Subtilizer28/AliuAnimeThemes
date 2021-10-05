@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Mona Megistus",
-        "version": "1.0.0"
+        "version": "1.1.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Mona%20Megistus%20(Genshin%20Impact).json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/7pwF1ct\/ezgif-2-3d45eb72b172.webp",
