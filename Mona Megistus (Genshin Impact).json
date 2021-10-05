@@ -1,0 +1,69 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Mona Megistus",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/7pwF1ct\/ezgif-2-3d45eb72b172.webp",
+        "overlay_alpha": 90
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Balsamiq%20Sans\/BalsamiqSans-Regular.ttf?raw=true"
+    },
+    "simple_colors": {
+        "background": 419430400,
+        "background_secondary": 385875968,
+        "mention_highlight": 1243172992,
+        "accent": -16722476,
+        "statusbar": 419485140
+    },
+    "colors": {
+        "primary_dark_200": -16722476,
+        "primary_dark_300": -16722476,
+        "primary_dark_360": -16722476,
+        "brand_new": -16722476,
+        "brand_new_560": -16722476,
+        "brand_new_430": -16722476,
+        "brand_new_230": -16722476,
+        "brand_new_330": -16722476,
+        "brand_new_360": -16722476,
+        "brand_new_460": -16722476,
+        "brand_new_260": -16722476,
+        "brand_new_500": -16722476,
+        "brand_new_600": -16722476,
+        "brand_new_630": -16722476,
+        "brand_new_300": -16722476,
+        "brand_new_400": -16722476,
+        "uikit_btn_compound_color_selector_dark": -16722476,
+        "uikit_btn_compound_color_selector_light": -16722476,
+        "uikit_btn_bg_color_selector_background_accent_dark": -16722476,
+        "uikit_btn_bg_color_selector_background_accent_light": -16722476,
+        "uikit_btn_bg_color_selector_brand": -16722476,
+        "uikit_btn_bg_color_selector_secondary": -16722476,
+        "uikit_btn_bg_color_selector_secondary_dark": -16722476,
+        "uikit_btn_bg_color_selector_secondary_light": -16722476,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -16722476,
+        "uikit_settings_item_text_color_light": 1711330772,
+        "uikit_settings_item_text_color_dark": -16722476,
+        "link": -14188851,
+        "primary_700": 1259950208,
+        "brand_new_530": -13107716
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -16722476,
+        "ic_sidebar_notifications_off_dark_24dp": -16722476,
+        "ic_sidebar_pins_on_light_24dp": -16722476,
+        "ic_sidebar_notifications_on_light_24dp": -16722476,
+        "ic_sidebar_pins_on_dark_24dp": -16722476,
+        "ic_sidebar_pins_off_dark_24dp": -16722476,
+        "ic_sidebar_notifications_off_light_24dp": -16722476,
+        "ic_sidebar_notifications_on_dark_24dp": -16722476,
+        "drawable_overlay_channel_pressed_dark": -16722476,
+        "drawable_overlay_channel_pressed_light": -16722476,
+        "drawable_overlay_channels_selected_dark": 2113983956,
+        "drawable_overlay_channels_selected_light": 2130761172,
+        "drawable_button_grey": -16722476
+    }
+}
