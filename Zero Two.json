@@ -1,0 +1,65 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Zero Two",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/r0Hyy0z\/ZeroTwo.gif",
+        "overlay_alpha": 0
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": 838860800,
+        "background": 838860800,
+        "mention_highlight": 402634433,
+        "accent": -18751
+    },
+    "colors": {
+        "primary_dark_200": -18751,
+        "brand_new_530": -2396013,
+        "primary_dark_300": -18751,
+        "primary_dark_360": -18751,
+        "primary_700": 436188865,
+        "brand_new": -18751,
+        "brand_new_560": -18751,
+        "brand_new_430": -18751,
+        "brand_new_230": -18751,
+        "brand_new_330": -18751,
+        "brand_new_360": -18751,
+        "brand_new_460": -18751,
+        "brand_new_260": -18751,
+        "brand_new_500": -18751,
+        "brand_new_600": -18751,
+        "brand_new_630": -18751,
+        "brand_new_300": -18751,
+        "brand_new_400": -18751,
+        "uikit_btn_compound_color_selector_dark": -18751,
+        "uikit_btn_compound_color_selector_light": -18751,
+        "uikit_btn_bg_color_selector_background_accent_dark": -18751,
+        "uikit_btn_bg_color_selector_background_accent_light": -18751,
+        "uikit_btn_bg_color_selector_brand": -18751,
+        "uikit_btn_bg_color_selector_secondary": -18751,
+        "uikit_btn_bg_color_selector_secondary_dark": -18751,
+        "uikit_btn_bg_color_selector_secondary_light": -18751,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -18751,
+        "uikit_settings_item_text_color_light": 1694480065,
+        "uikit_settings_item_text_color_dark": -18751,
+        "link": -14188851
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -18751,
+        "ic_sidebar_notifications_off_dark_24dp": -18751,
+        "ic_sidebar_pins_on_light_24dp": -18751,
+        "ic_sidebar_notifications_on_light_24dp": -18751,
+        "ic_sidebar_pins_on_dark_24dp": -18751,
+        "ic_sidebar_pins_off_dark_24dp": -18751,
+        "ic_sidebar_notifications_off_light_24dp": -18751,
+        "ic_sidebar_notifications_on_dark_24dp": -18751,
+        "drawable_overlay_channel_pressed_dark": -18751,
+        "drawable_overlay_channel_pressed_light": -18751,
+        "drawable_overlay_channels_selected_dark": 2113910465,
+        "drawable_overlay_channels_selected_light": 2113910465
+    }
+}
