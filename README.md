@@ -5,7 +5,7 @@ Open an issue for an request, change of font and stuff for existing themes
 
 **ONLY WORKS WITH FULL TRANSPARENCY MODE**
 
-# All Themes 
+# Anime Themes 
 |    Theme Name    |     Current Version     | Preview Link       |	    Download Link   |
 | ---------------- |:-----------------------:|:-----------------------:|:--------------------:|
 |    Asuna Yuuki   |          v1.2.5         | [Preview](https://cdn.discordapp.com/attachments/894185205491974154/894185827394002944/IMG_20211003_170446.jpg) | [Download](https://cdn.discordapp.com/attachments/894185240690561116/894186794667626516/Asuna_Yuuki_Sword_Art_Online.json) |
@@ -16,4 +16,12 @@ Open an issue for an request, change of font and stuff for existing themes
 | Rem (Halloween Ver)|        v1.1.0         | [Preview]() | [Download]() |
 |   Shinobu Kocho  |          v1.1.0         | [Preview]() | [Download]() |
 |   Shiro (Ngnl)   |          v1.1.0         | [Preview]() | [Download]() |
+|    Shouko Komi   |          v1.0.0         | In Development | In Development |
 |Yamato (One Piece)|          v1.2.3         | [Preview]() | [Download]() |
+
+# Genshin Themes
+|    Theme Name    |     Current Version     |      Preview Link       |     Download Link    |
+| ---------------- |:-----------------------:|:-----------------------:|:--------------------:|
+|  Mona Megistus   |          v1.1.0         | [Preview](https://cdn.discordapp.com/attachments/894185205491974154/895192473511534682/Screenshot_2021-10-05-17-51-31-29_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg)<br/>[Preview](https://cdn.discordapp.com/attachments/894185205491974154/895192473905819658/Screenshot_2021-10-05-17-51-39-07_fa4ea8e8aeb69dcd3ab969e8fd3d4310.jpg) | [Download](https://cdn.discordapp.com/attachments/894185240690561116/895193110114611210/Mona_Megistus_Genshin_Impact.json) |
+|     Hu Tao       |          v1.0.0         | In Development | In Development |
+|  Jean Gunnhildr  |          v1.0.0         | In Development | In Development |
