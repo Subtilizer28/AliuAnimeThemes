@@ -1,0 +1,73 @@
+{
+    "manifest": {
+        "author": "Subtilizer#6619",
+        "name": "Hu Tao",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/i.ibb.co\/WxDT7f9\/914172.jpg",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Signika%20Negative\/SignikaNegative-Regular.ttf?raw=true",
+        "ginto_regular": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Signika%20Negative\/SignikaNegative-Regular.ttf?raw=true",
+        "ginto_bold": "https:\/\/github.com\/Subtilizer28\/AliuAnimeThemes\/blob\/main\/Fonts\/Signika%20Negative\/SignikaNegative-Bold.ttf?raw=true"
+    },
+    "simple_colors": {
+        "background_secondary": 486539264,
+        "background": 486539264,
+        "mention_highlight": 416940110,
+        "accent": -56320
+    },
+    "colors": {
+        "primary_dark_200": -56320,
+        "primary_dark_300": -56320,
+        "primary_dark_360": -56320,
+        "primary_700": 416940110,
+        "brand_new": -56320,
+        "brand_new_560": -56320,
+        "brand_new_430": -56320,
+        "brand_new_530": -56576,
+        "brand_new_230": -56320,
+        "brand_new_330": -56320,
+        "brand_new_360": -56320,
+        "brand_new_460": -56320,
+        "brand_new_260": -56320,
+        "brand_new_500": -56320,
+        "brand_new_600": -56320,
+        "brand_new_630": -56320,
+        "brand_new_300": -56320,
+        "brand_new_400": -56320,
+        "uikit_btn_compound_color_selector_dark": -56320,
+        "uikit_btn_compound_color_selector_light": -56320,
+        "uikit_btn_bg_color_selector_background_accent_dark": -56320,
+        "uikit_btn_bg_color_selector_background_accent_light": -56320,
+        "uikit_btn_bg_color_selector_brand": -56320,
+        "uikit_btn_bg_color_selector_secondary": -56320,
+        "uikit_btn_bg_color_selector_secondary_dark": -56320,
+        "uikit_btn_bg_color_selector_secondary_light": -56320,
+        "uikit_btn_bg_color_selector_white": -131587,
+        "uikit_btn_outline_color_selector_brand": -56320,
+        "uikit_settings_item_text_color_light": 1694442496,
+        "uikit_settings_item_text_color_dark": -56320,
+        "link": -14188851,
+        "uikit_btn_bg_color_selector_red": 1258234880
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_off_light_24dp": -56320,
+        "ic_sidebar_notifications_off_dark_24dp": -56320,
+        "ic_sidebar_pins_on_light_24dp": -56320,
+        "ic_sidebar_notifications_on_light_24dp": -56320,
+        "ic_sidebar_pins_on_dark_24dp": -56320,
+        "ic_sidebar_pins_off_dark_24dp": -56320,
+        "ic_sidebar_notifications_off_light_24dp": -56320,
+        "ic_sidebar_notifications_on_dark_24dp": -56320,
+        "drawable_overlay_channel_pressed_dark": -56320,
+        "drawable_overlay_channel_pressed_light": -56320,
+        "drawable_overlay_channels_selected_dark": 2130650112,
+        "drawable_overlay_channels_selected_light": 2147427328,
+        "drawable_button_grey": -41405,
+        "ic_expression_search_empty_dark": -56320,
+        "ic_sidebar_search_24dp": -56320
+    }
+}
