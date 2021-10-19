@@ -2,7 +2,9 @@
     "manifest": {
         "author": "Subtilizer#6619",
         "name": "Hu Tao",
-        "version": "1.0.0"
+        "version": "1.1.0",
+        "license": " ",
+        "updater": "https:\/\/raw.githubusercontent.com\/Subtilizer28\/AliuAnimeThemes\/main\/Hu%20Tao%20(Genshin%20Impact).json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/WxDT7f9\/914172.jpg",
